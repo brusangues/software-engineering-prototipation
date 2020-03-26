@@ -1,0 +1,11 @@
+Universidade Federal do ABC
+Disciplina: Engenharia de Software - Atividade de Prototipação
+Professor: João Marcelo Borovina Josko
+Aluno: Bruno Sanches Rodrigues
+
+Link do github contendo requisitos, vídeo, e telas do protótipo:
+https://github.com/brusangues/software-engineering-prototyping
+
+Link para testar o protótipo online:
+https://www.figma.com/proto/kP554lHyrReYHmjfO6R79o/Waste-Manager-App?node-id=1%3A16&scaling=min-zoom
+(se não estiver mais funcionando, pode avisar)
